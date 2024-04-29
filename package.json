@@ -1,0 +1,17 @@
+{
+  "name": "form-sample",
+  "version": "1.0.0",
+  "description": "In this tutorial we will create simple form that will save user data to server implemented in Node.js with MongoDB database and allow us to see saved data on a separate page in JSON format.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "mongodb": "^3.6.2"
+  }
+}
